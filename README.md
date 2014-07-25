@@ -1,0 +1,4 @@
+BrisTitanic
+===========
+
+Brisbane Kaggle competition
